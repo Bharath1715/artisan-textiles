@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/artisan-textiles/static/css/main.3434958d.css",
+    "main.js": "/artisan-textiles/static/js/main.a80a926f.js",
+    "index.html": "/artisan-textiles/index.html",
+    "main.3434958d.css.map": "/artisan-textiles/static/css/main.3434958d.css.map",
+    "main.a80a926f.js.map": "/artisan-textiles/static/js/main.a80a926f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3434958d.css",
+    "static/js/main.a80a926f.js"
+  ]
+}
